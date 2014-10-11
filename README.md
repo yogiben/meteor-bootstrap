@@ -2,7 +2,7 @@
 
 ### Set up ###
 1. `meteor add yogiben:bootstrap`
-2. Choose a starting theme from [Bootswatch](http://bootswatch.com/) like [Bootswatch](http://bootswatch.com/flatly/)
+2. Choose a starting theme from [Bootswatch](http://bootswatch.com/) like [Flatly](http://bootswatch.com/flatly/)
 3. Download the variables.less file into your client folder or a subfolder e.g. `/client/variables.less`
 4. Create a less file in your client folder referencing the `variables.less` file
 
