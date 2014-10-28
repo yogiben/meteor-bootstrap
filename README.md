@@ -1,5 +1,7 @@
 # Bootstrap 3 easily customisable variables
 
+**The code has to be manually added to your packages folder. The core concept is [not supported by the packaging system](https://github.com/meteor/meteor/issues/2796).**
+
 ### Set up ###
 1. `cd` to your `packages` folder
 2. `git clone https://github.com/yogiben/meteor-bootstrap/edit/master/README.md yogiben:bootstrap`
